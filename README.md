@@ -2,7 +2,7 @@
 
 ---
 
-# Reac | Redux | Redux Thunk BoilerPlate Setup
+# React | Redux | Redux Thunk BoilerPlate Setup
 
 ---
 
