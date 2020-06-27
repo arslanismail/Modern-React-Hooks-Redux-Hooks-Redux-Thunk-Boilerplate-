@@ -9,7 +9,7 @@ function App() {
   const fetchedposts = useSelector((state) => state.posts);
   const dispatch = useDispatch();
   useEffect(() => {
-    console.log("here");
+    console.log("here and there");
     dispatch(fetchPost());
 
     console.log("there");
